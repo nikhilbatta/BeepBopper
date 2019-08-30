@@ -8,8 +8,8 @@
 
 _Specs_
 * This program will take a number and output an array of the  numbers till the target number with changes to every number that has a one, two, or three.*
-_Input = 3_
-*_Output = Beep,Bopp,I'm sorry Dave, I cant do that_*
+Input = 3
+Output = Beep,Bopp,I'm sorry Dave, I cant do that
 
 * _This program will replace every number that has a "1" in it with Beep_*
 *_Input  = 11_*
