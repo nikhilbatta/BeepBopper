@@ -7,7 +7,7 @@
 ## Description
 
 _Specs_
-*This program will take a number and output an array of the  numbers till the target number with changes to every number that has a one, two, or three*
+_This program will take a number and output an array of the  numbers till the target number with changes to every number that has a one, two, or three_
 *Input = 3*
 *Output = Beep,Bopp,I'm sorry Dave, I cant do that*
 
