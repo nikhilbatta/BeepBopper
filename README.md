@@ -9,16 +9,15 @@
 _Specs_
 
 <dl>
-  <dt>This program will take a number and output an array of the  numbers till the target number with changes to every number     that has a one, two, or three</dt>
-  <dd>Input = 3 </dd>
+  <dt>This program will take a number and output an array of the  numbers till the target number with changes to every number that includes a one, two, or three</dt>
+    <dd>Input = 3 </dd>
     <dd>Output = Beep,Bopp,I'm sorry Dave, I cant do that </dd>
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>This program will replace every number that has a "1" in it with Beep</dt>
+    <dd>Input = 11</dd>
+    <dd>Output = Beep,Bopp,I'm sorry Dave, I cant do that. 4,5,6,7,8,9,Beep,Beep.</dd>
 </dl>
 
-*This program will replace every number that has a "1" in it with Beep*
-*Input  = 11*
-*Output = Beep,Bopp,I'm sorry Dave, I cant do that. 4,5,6,7,8,9,Beep,Beep.*
+
 * This program will replace every number that has a "2" in it with a "Bopp"(the greater number of the rules will override the other numbers rule. so if 2 and 1 are in the same number 2's rule will override 1s.*
 _Input = 21_
 _Output = Bopp.
