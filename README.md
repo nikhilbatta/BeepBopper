@@ -11,7 +11,13 @@ _Specs_
  * _This program will take a number and output an array of the  numbers till the target number with changes to every number     that has a one, two, or three_
     .. _Input = 3_
     ..Output = Beep,Bopp,I'm sorry Dave, I cant do that-
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
 
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 *This program will replace every number that has a "1" in it with Beep*
 *Input  = 11*
 *Output = Beep,Bopp,I'm sorry Dave, I cant do that. 4,5,6,7,8,9,Beep,Beep.*
