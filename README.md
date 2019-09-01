@@ -15,15 +15,14 @@ _Specs_
   <dt>This program will replace every number that has a "1" in it with Beep</dt>
     <dd>Input = 11</dd>
     <dd>Output = Beep,Bopp,I'm sorry Dave, I cant do that. 4,5,6,7,8,9,Beep,Beep.</dd>
+  <dt>This program will replace every number that has a "2" in it with a "Bopp"(the greater number of the rules will override the other numbers rule. so if 2 and 1 are in the same number 2's rule will override 1s.</dt>
+    <dd>Input = 21</dd>
+    <dd>Output = Bopp</dd>
+  <dt>This program will replace every number that has a "3" in it with a "Im sorry Dave, I cant do that" ( 3s rule will over ride 1 and 2s rules.</dt>
+    <dd>Input = 13</dd>
+    <dd>Output = Beep,Bopp,Im sorry Dave,I cant do that. 4,5,6,7,8,9,Beep,Beep,Bopp,Im sorry Dave, I cant do that.</dd>
 </dl>
 
-
-* This program will replace every number that has a "2" in it with a "Bopp"(the greater number of the rules will override the other numbers rule. so if 2 and 1 are in the same number 2's rule will override 1s.*
-_Input = 21_
-_Output = Bopp.
-* _This program will replace every number that has a "3" in it with a "Im sorry Dave, I cant do that" ( 3s rule will over ride 1 and 2s rules. 
-_Input = 13_
-_Output = Beep,Bopp,Im sorry Dave,I cant do that. 4,5,6,7,8,9,Beep,Beep,Bopp,Im sorry Dave, I cant do that.
 
 ## Setup/Installation Requirements
 
